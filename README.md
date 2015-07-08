@@ -1,0 +1,2 @@
+# SamplePinchScaling
+UnityのuGUIでピンチ動作によってオブジェクトの拡大縮小をさせるスクリプトのサンプルです。
